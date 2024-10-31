@@ -7,4 +7,5 @@ If it says "no such table Movie"
 run the following commands in commandline :
 
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
